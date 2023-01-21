@@ -23,6 +23,13 @@ namespace ObjectPool
             }
         }
 
+        public void Destroy(GameObject gameObject)
+        {
+            var poolItem = gameObject.GetComponent<PoolItem>();
+            if (poolItem == null) Destroy(gameObject);
+            poolItem.Release();
+        }
+
         public GameObject Get(GameObject go, Vector3 position, Quaternion rotation)
         {
             var id = go.GetInstanceID();
