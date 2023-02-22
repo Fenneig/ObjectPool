@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1b]
+
+### Fix
+
+- Fix meta files
+
 ## [1.0.1a]
 
 ### Fix
