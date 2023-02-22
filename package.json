@@ -1,0 +1,14 @@
+{
+    "name": "com.fenneig-games.object-pool",
+    "version": "1.0.1",
+    "displayName": "Object pool",
+    "description": "Package includes tools for creating pool of objects for boosting performance",
+    "unity": "2018.3",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/Fenneig/ObjectPool/blob/main/readme.md",
+    "author": {
+      "name": "Fenneig",
+      "email": "koie.dubna@gmail.com",
+      "url": "https://github.com/Fenneig"
+    }
+  }
