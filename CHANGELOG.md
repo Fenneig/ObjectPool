@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1a]
+
+### Fix
+
+- Correct layout convention
+
 ## [1.0.1]
 
 ### Added
